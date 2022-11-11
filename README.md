@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @HimenNarzari
 - 👀 I’m interested in anime, e-sports and ofcourse coding 
 - 🌱 I’m currently learning Android development 
-- 💞️ I’m looking to collaborate on ...
 - 📫 you to reach me through himennarzari287@gmail.com
 
 <!---
